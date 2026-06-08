@@ -6,7 +6,7 @@ The course aims to help students understand the general workflow of software eng
 
 Students will first experience how an agent can help build a minimum viable web system from requirements. As the system becomes more complex, the course will gradually introduce key software engineering mechanisms, including requirement engineering, test-driven development, version control, traceability, software testing, software evolution, and continuous integration/deployment. By the end of the course, students are expected to transform a non-trivial requirement document into a runnable, testable, traceable, and evolvable web system with agentic workflows.
 
-# Outline (16 weeks)
+# Outline
 
 1. **Agentic Software Engineering and Requirement Compilation**:
 This lecture introduces why software engineering is more than programming, especially in the era of large language models. Students will learn the motivation of agentic software engineering and understand how agents can be used to automate different stages of the software engineering workflow.
