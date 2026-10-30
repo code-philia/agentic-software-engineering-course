@@ -8,13 +8,13 @@ Students will first experience how an agent can help build a minimum viable web 
 
 # Outline
 
-1. **Agentic Software Engineering and Requirement Compilation**:
+1. **Agentic Software Engineering and Requirement Compilation** (1 week):
 This lecture introduces why software engineering is more than programming, especially in the era of large language models. Students will learn the motivation of agentic software engineering and understand how agents can be used to automate different stages of the software engineering workflow.
 The lecture also introduces the concept of Requirement Compilation, namely how human-written requirements can be transformed into executable software artifacts, including tests, code, documents, and traceability links.
 
 - Lab: a visualized demo of requirement compilation [link todo]
 
-3. **Building a Minimum Viable Web System**:
+3. **Building a Minimum Viable Web System** (2 weeks):
 This lecture introduces the basic structure of a modern web system, including frontend, backend, database, and APIs. Instead of requiring students to master all implementation details from scratch, the course will provide a running example or starter system.
 Students will use agents to understand, modify, and extend this system. The goal is to let students quickly experience how a non-trivial web system can be built or evolved from requirements with agentic assistance.
 
@@ -22,7 +22,7 @@ Students will use agents to understand, modify, and extend this system. The goal
 - Lab 2: Backend Programming [link todo]
 - Lab 3: Frontend Programming [link todo]
 
-4. **LLM, RAG, Tool Calling, and MCP**:
+4. **LLM, RAG, Tool Calling, and MCP** (1 week):
 This lecture introduces the basic working principles of large language models and explains why hallucination occurs in software engineering tasks.
 Students will learn how retrieval-augmented generation, enriched project context, tool calling, and MCP-style mechanisms can help agents interact with external tools, code repositories, testing frameworks, databases, and development environments. The focus is not only on using LLMs, but also on designing reliable agentic workflows around them.
 
@@ -33,24 +33,23 @@ Students will learn how retrieval-augmented generation, enriched project context
 - Lab 5: token consumption [link todo]
 
 
-5. **Requirement Compilation and Traceability**:
+5. **Requirement Compilation and Traceability** (2-3 weeks):
 This lecture introduces how to enhance the requirement compilation workflow by incorporating Git and software traceability.
 Students will learn how to connect requirements, tests, code changes, commits, and system behaviors. The goal is to make agentic development more controllable, inspectable, and evolvable, so that each code change can be traced back to its corresponding requirement and validation evidence.
 A mid-term presentation will be arranged around this stage. Students are expected to demonstrate their preliminary system and explain how requirements, tests, code changes, and agent interactions are organized.
 
 - Lab : minimum requirement compiler [link todo]
 
-6. **Software Testing**:
+6. **Software Testing** (1-2 weeks):
 This lecture introduces fundamental software testing techniques, including black-box testing, white-box testing, unit testing, integration testing, API testing, GUI testing, and regression testing.
 Students will learn how testing supports agentic software engineering by detecting hallucinated code, unintended behavior, regression bugs, and incomplete implementations.
 
 - Lab : coverage-based testing [link todo]
 
-7. **Software Evolution**:
+7. **Software Evolution** (1-2 weeks):
 This lecture introduces how Git works and why version control is essential for software engineering.
 Students will learn the concepts of repository, commit, branch, merge, conflict, issue, pull request, and code review. The lecture emphasizes that Git is not only a collaboration tool, but also a foundation for tracking agentic software evolution.
-
-This lecture introduces continuous integration and deployment, with practical facilities such as GitHub Actions.
+It introduces continuous integration and deployment, with practical facilities such as GitHub Actions.
 Students will learn how automated checks can detect erroneous commits, how tests can be integrated into the development pipeline, and how a system can be deployed and updated continuously. The lecture emphasizes the role of CI/CD as an execution environment for reliable agentic software engineering.
 
 - Lab 1: Git operations [link todo]
