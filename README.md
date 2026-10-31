@@ -38,7 +38,8 @@ This lecture introduces how to enhance the requirement compilation workflow by i
 Students will learn how to connect requirements, tests, code changes, commits, and system behaviors. The goal is to make agentic development more controllable, inspectable, and evolvable, so that each code change can be traced back to its corresponding requirement and validation evidence.
 A mid-term presentation will be arranged around this stage. Students are expected to demonstrate their preliminary system and explain how requirements, tests, code changes, and agent interactions are organized.
 
-- Lab : minimum requirement compiler [link todo]
+- Lab 1: minimum requirement compiler [link todo]
+- Lab 2: the economic consideration in requirement compiler [link todo]
 
 6. **Software Testing** (1-2 weeks):
 This lecture introduces fundamental software testing techniques, including black-box testing, white-box testing, unit testing, integration testing, API testing, GUI testing, and regression testing.
